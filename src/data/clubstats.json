@@ -1,0 +1,12 @@
+[
+  { "year": 2015, "members": 12, "tournaments": 2, "wins": 1, "revenue": 3200 },
+  { "year": 2016, "members": 18, "tournaments": 3, "wins": 2, "revenue": 4800 },
+  { "year": 2017, "members": 25, "tournaments": 4, "wins": 2, "revenue": 6500 },
+  { "year": 2018, "members": 34, "tournaments": 5, "wins": 3, "revenue": 8900 },
+  { "year": 2019, "members": 45, "tournaments": 6, "wins": 4, "revenue": 12000 },
+  { "year": 2020, "members": 38, "tournaments": 2, "wins": 1, "revenue": 7000 },
+  { "year": 2021, "members": 52, "tournaments": 5, "wins": 4, "revenue": 14500 },
+  { "year": 2022, "members": 67, "tournaments": 7, "wins": 5, "revenue": 18000 },
+  { "year": 2023, "members": 81, "tournaments": 8, "wins": 6, "revenue": 22000 },
+  { "year": 2024, "members": 95, "tournaments": 9, "wins": 7, "revenue": 27500 }
+]

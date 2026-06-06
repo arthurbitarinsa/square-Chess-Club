@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Magnus Carlsen",
+    "country_en": "Norway", "country_fr": "Norvège", "country_nl": "Noorwegen",
+    "rating": 2839,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1990,
+    "bio_en": "Considered the greatest chess player of all time, Magnus dominated world chess for over a decade.",
+    "bio_fr": "Considéré comme le plus grand joueur d'échecs de tous les temps, Magnus a dominé les échecs mondiaux pendant plus d'une décennie.",
+    "bio_nl": "Beschouwd als de grootste schaker aller tijden, domineerde Magnus het wereldschaak meer dan een decennium."
+  },
+  {
+    "id": 2,
+    "name": "Garry Kasparov",
+    "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
+    "rating": 2851,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1963,
+    "bio_en": "Legendary world champion who held the top ranking for 20 years and pushed the boundaries of chess theory.",
+    "bio_fr": "Champion du monde légendaire qui a occupé le premier rang pendant 20 ans et repoussé les limites de la théorie des échecs.",
+    "bio_nl": "Legendarische wereldkampioen die 20 jaar de topranking vasthield en de grenzen van de schaaktheorie verlegde."
+  },
+  {
+    "id": 3,
+    "name": "Fabiano Caruana",
+    "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
+    "rating": 2820,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1992,
+    "bio_en": "The strongest American player since Bobby Fischer, known for his deep preparation and tactical precision.",
+    "bio_fr": "Le joueur américain le plus fort depuis Bobby Fischer, connu pour sa préparation approfondie et sa précision tactique.",
+    "bio_nl": "De sterkste Amerikaanse speler sinds Bobby Fischer, bekend om zijn grondige voorbereiding en tactische precisie."
+  },
+  {
+    "id": 4,
+    "name": "Hikaru Nakamura",
+    "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
+    "rating": 2794,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1987,
+    "bio_en": "Five-time US Champion and one of the most exciting attacking players in modern chess.",
+    "bio_fr": "Champion des États-Unis à cinq reprises et l'un des joueurs d'attaque les plus passionnants des échecs modernes.",
+    "bio_nl": "Vijfvoudig Amerikaans kampioen en een van de meest opwindende aanvalsspelers in het moderne schaken."
+  },
+  {
+    "id": 5,
+    "name": "Ding Liren",
+    "country_en": "China", "country_fr": "Chine", "country_nl": "China",
+    "rating": 2811,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1992,
+    "bio_en": "Current World Champion from China, known for his solid positional style and remarkable endgame technique.",
+    "bio_fr": "Champion du monde actuel de Chine, connu pour son style positionnel solide et sa remarquable technique de finale.",
+    "bio_nl": "Huidig wereldkampioen uit China, bekend om zijn solide positionele stijl en opmerkelijke eindspeltechniek."
+  },
+  {
+    "id": 6,
+    "name": "Anish Giri",
+    "country_en": "Netherlands", "country_fr": "Pays-Bas", "country_nl": "Nederland",
+    "rating": 2779,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1994,
+    "bio_en": "One of the world's elite players, known for his incredibly solid defensive style and deep theoretical knowledge.",
+    "bio_fr": "L'un des joueurs d'élite mondiaux, connu pour son style défensif incroyablement solide et ses profondes connaissances théoriques.",
+    "bio_nl": "Een van 's werelds elite spelers, bekend om zijn ongelooflijk solide defensieve stijl en diepe theoretische kennis."
+  },
+  {
+    "id": 7,
+    "name": "Levon Aronian",
+    "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
+    "rating": 2777,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1982,
+    "bio_en": "Armenian-American genius known for his creative and unconventional style of play.",
+    "bio_fr": "Génie arméno-américain connu pour son style de jeu créatif et non conventionnel.",
+    "bio_nl": "Armeens-Amerikaanse genie bekend om zijn creatieve en onconventionele speelstijl."
+  },
+  {
+    "id": 8,
+    "name": "Wesley So",
+    "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
+    "rating": 2778,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1993,
+    "bio_en": "Fischer Random World Champion with an exceptionally clean and precise style.",
+    "bio_fr": "Champion du monde Fischer Random avec un style exceptionnellement propre et précis.",
+    "bio_nl": "Fischer Random wereldkampioen met een uitzonderlijk clean en precies speelstijl."
+  },
+  {
+    "id": 9,
+    "name": "Viswanathan Anand",
+    "country_en": "India", "country_fr": "Inde", "country_nl": "India",
+    "rating": 2754,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1969,
+    "bio_en": "Five-time World Champion and the first Asian player to hold the undisputed world title.",
+    "bio_fr": "Champion du monde à cinq reprises et premier joueur asiatique à détenir le titre mondial incontesté.",
+    "bio_nl": "Vijfvoudig wereldkampioen en de eerste Aziatische speler die de onbetwiste wereldtitel bezit."
+  },
+  {
+    "id": 10,
+    "name": "Vladimir Kramnik",
+    "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
+    "rating": 2800,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1975,
+    "bio_en": "The man who dethroned Kasparov, known for his deep understanding of positional chess.",
+    "bio_fr": "L'homme qui a détrôné Kasparov, connu pour sa profonde compréhension des échecs positionnels.",
+    "bio_nl": "De man die Kasparov onttroonde, bekend om zijn diepe begrip van positioneel schaken."
+  },
+  {
+    "id": 11,
+    "name": "Alireza Firouzja",
+    "country_en": "France", "country_fr": "France", "country_nl": "Frankrijk",
+    "rating": 2793,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 2003,
+    "bio_en": "The young prodigy who rose meteorically to become one of the world's top players before age 20.",
+    "bio_fr": "Le jeune prodige qui a grimpé en flèche pour devenir l'un des meilleurs joueurs mondiaux avant 20 ans.",
+    "bio_nl": "Het jonge wonderkind dat meteoorachtig steeg om voor zijn 20e een van de beste spelers ter wereld te worden."
+  },
+  {
+    "id": 12,
+    "name": "Ian Nepomniachtchi",
+    "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
+    "rating": 2791,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1990,
+    "bio_en": "Twice World Championship Challenger, known for his sharp tactical play and fighting spirit.",
+    "bio_fr": "Double challengers du championnat du monde, connu pour son jeu tactique tranchant et son esprit combatif.",
+    "bio_nl": "Tweemaal wereldkampioenschapsuitdager, bekend om zijn scherpe tactische spel en vechtlust."
+  },
+  {
+    "id": 13,
+    "name": "Dommaraju Gukesh",
+    "country_en": "India", "country_fr": "Inde", "country_nl": "India",
+    "rating": 2783,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 2006,
+    "bio_en": "The youngest ever World Chess Champion, a generational talent from India who made history in 2024.",
+    "bio_fr": "Le plus jeune champion du monde d'échecs de tous les temps, un talent générationnel d'Inde qui a fait l'histoire en 2024.",
+    "bio_nl": "De jongste wereldschaakkampioen ooit, een generatietalent uit India dat geschiedenis schreef in 2024."
+  },
+  {
+    "id": 14,
+    "name": "Praggnanandhaa R",
+    "country_en": "India", "country_fr": "Inde", "country_nl": "India",
+    "rating": 2747,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 2005,
+    "bio_en": "One of the youngest grandmasters in history, known for defeating world champions multiple times as a teenager.",
+    "bio_fr": "L'un des plus jeunes grands maîtres de l'histoire, connu pour avoir battu des champions du monde à plusieurs reprises en tant qu'adolescent.",
+    "bio_nl": "Een van de jongste grootmeesters in de geschiedenis, bekend om het meerdere keren verslaan van wereldkampioenen als tiener."
+  },
+  {
+    "id": 15,
+    "name": "Shakhriyar Mamedyarov",
+    "country_en": "Azerbaijan", "country_fr": "Azerbaïdjan", "country_nl": "Azerbeidzjan",
+    "rating": 2761,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1985,
+    "bio_en": "A dynamic and aggressive player who has consistently ranked among the world's top ten for many years.",
+    "bio_fr": "Un joueur dynamique et agressif qui figure régulièrement parmi les dix meilleurs mondiaux depuis de nombreuses années.",
+    "bio_nl": "Een dynamische en agressieve speler die vele jaren consistent bij de wereldtop tien heeft gestaan."
+  },
+  {
+    "id": 16,
+    "name": "Maxime Vachier-Lagrave",
+    "country_en": "France", "country_fr": "France", "country_nl": "Frankrijk",
+    "rating": 2742,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1990,
+    "bio_en": "Known as MVL, a Najdorf specialist and one of Europe's most exciting attacking players.",
+    "bio_fr": "Connu sous le nom de MVL, spécialiste de la Najdorf et l'un des joueurs d'attaque les plus passionnants d'Europe.",
+    "bio_nl": "Bekend als MVL, een Najdorf-specialist en een van Europa's meest opwindende aanvalsspelers."
+  },
+  {
+    "id": 17,
+    "name": "Sergey Karjakin",
+    "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
+    "rating": 2747,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1990,
+    "bio_en": "The youngest grandmaster in history at the time, and World Championship Challenger in 2016.",
+    "bio_fr": "Le plus jeune grand maître de l'histoire à l'époque, et challenger au championnat du monde en 2016.",
+    "bio_nl": "Destijds de jongste grootmeester in de geschiedenis, en wereldkampioenschapsuitdager in 2016."
+  },
+  {
+    "id": 18,
+    "name": "Bobby Fischer",
+    "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
+    "rating": 2785,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1943,
+    "bio_en": "Arguably the most iconic chess player ever, whose 1972 match against Spassky was a Cold War milestone.",
+    "bio_fr": "Sans doute le joueur d'échecs le plus emblématique de tous les temps, dont le match de 1972 contre Spassky fut un moment clé de la Guerre froide.",
+    "bio_nl": "Waarschijnlijk de meest iconische schaker ooit, wiens wedstrijd van 1972 tegen Spassky een mijlpaal was in de Koude Oorlog."
+  },
+  {
+    "id": 19,
+    "name": "Anatoly Karpov",
+    "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
+    "rating": 2780,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1951,
+    "bio_en": "World Champion for a decade, famous for his positional mastery and legendary rivalry with Kasparov.",
+    "bio_fr": "Champion du monde pendant une décennie, célèbre pour sa maîtrise positionnelle et sa rivalité légendaire avec Kasparov.",
+    "bio_nl": "Een decennium lang wereldkampioen, beroemd om zijn positionele meesterschap en zijn legendarische rivaliteit met Kasparov."
+  },
+  {
+    "id": 20,
+    "name": "José Raúl Capablanca",
+    "country_en": "Cuba", "country_fr": "Cuba", "country_nl": "Cuba",
+    "rating": 2725,
+    "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
+    "born": 1888,
+    "bio_en": "The Chess Machine — World Champion from 1921 to 1927, famous for his effortless endgame technique.",
+    "bio_fr": "La Machine à Échecs — Champion du monde de 1921 à 1927, célèbre pour sa technique de finale sans effort.",
+    "bio_nl": "De Schaakma chine — Wereldkampioen van 1921 tot 1927, beroemd om zijn moeiteloze eindspeltechniek."
+  }
+]
