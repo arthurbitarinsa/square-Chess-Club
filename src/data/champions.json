@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Magnus Carlsen",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Magnus_Carlsen_in_2023.jpg/200px-Magnus_Carlsen_in_2023.jpg",
     "country_en": "Norway", "country_fr": "Norvège", "country_nl": "Noorwegen",
     "rating": 2839,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -13,6 +14,7 @@
   {
     "id": 2,
     "name": "Garry Kasparov",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kasparov_Magnitogorsk_2010.jpg/200px-Kasparov_Magnitogorsk_2010.jpg",
     "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
     "rating": 2851,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -24,6 +26,7 @@
   {
     "id": 3,
     "name": "Fabiano Caruana",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Fabiano_Caruana_in_2019.jpg/200px-Fabiano_Caruana_in_2019.jpg",
     "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
     "rating": 2820,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -35,6 +38,7 @@
   {
     "id": 4,
     "name": "Hikaru Nakamura",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hikaru_Nakamura_in_2022.jpg/200px-Hikaru_Nakamura_in_2022.jpg",
     "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
     "rating": 2794,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -46,6 +50,7 @@
   {
     "id": 5,
     "name": "Ding Liren",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ding_Liren_in_2019.jpg/200px-Ding_Liren_in_2019.jpg",
     "country_en": "China", "country_fr": "Chine", "country_nl": "China",
     "rating": 2811,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -57,6 +62,7 @@
   {
     "id": 6,
     "name": "Anish Giri",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Anish_Giri_in_2022.jpg/200px-Anish_Giri_in_2022.jpg",
     "country_en": "Netherlands", "country_fr": "Pays-Bas", "country_nl": "Nederland",
     "rating": 2779,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -68,6 +74,7 @@
   {
     "id": 7,
     "name": "Levon Aronian",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Levon_Aronian_in_2022.jpg/200px-Levon_Aronian_in_2022.jpg",
     "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
     "rating": 2777,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -79,6 +86,7 @@
   {
     "id": 8,
     "name": "Wesley So",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wesley_So_in_2022.jpg/200px-Wesley_So_in_2022.jpg",
     "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
     "rating": 2778,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -90,6 +98,7 @@
   {
     "id": 9,
     "name": "Viswanathan Anand",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Viswanathan_Anand_in_2021.jpg/200px-Viswanathan_Anand_in_2021.jpg",
     "country_en": "India", "country_fr": "Inde", "country_nl": "India",
     "rating": 2754,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -101,6 +110,7 @@
   {
     "id": 10,
     "name": "Vladimir Kramnik",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vladimir_Kramnik_in_2018.jpg/200px-Vladimir_Kramnik_in_2018.jpg",
     "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
     "rating": 2800,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -112,6 +122,7 @@
   {
     "id": 11,
     "name": "Alireza Firouzja",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alireza_Firouzja_in_2022.jpg/200px-Alireza_Firouzja_in_2022.jpg",
     "country_en": "France", "country_fr": "France", "country_nl": "Frankrijk",
     "rating": 2793,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -123,6 +134,7 @@
   {
     "id": 12,
     "name": "Ian Nepomniachtchi",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ian_Nepomniachtchi_in_2022.jpg/200px-Ian_Nepomniachtchi_in_2022.jpg",
     "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
     "rating": 2791,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -134,6 +146,7 @@
   {
     "id": 13,
     "name": "Dommaraju Gukesh",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gukesh_D_in_2024.jpg/200px-Gukesh_D_in_2024.jpg",
     "country_en": "India", "country_fr": "Inde", "country_nl": "India",
     "rating": 2783,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -145,6 +158,7 @@
   {
     "id": 14,
     "name": "Praggnanandhaa R",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Praggnanandhaa_in_2023.jpg/200px-Praggnanandhaa_in_2023.jpg",
     "country_en": "India", "country_fr": "Inde", "country_nl": "India",
     "rating": 2747,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -156,6 +170,7 @@
   {
     "id": 15,
     "name": "Shakhriyar Mamedyarov",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Shakhriyar_Mamedyarov_in_2018.jpg/200px-Shakhriyar_Mamedyarov_in_2018.jpg",
     "country_en": "Azerbaijan", "country_fr": "Azerbaïdjan", "country_nl": "Azerbeidzjan",
     "rating": 2761,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -167,6 +182,7 @@
   {
     "id": 16,
     "name": "Maxime Vachier-Lagrave",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Maxime_Vachier-Lagrave_in_2022.jpg/200px-Maxime_Vachier-Lagrave_in_2022.jpg",
     "country_en": "France", "country_fr": "France", "country_nl": "Frankrijk",
     "rating": 2742,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -178,6 +194,7 @@
   {
     "id": 17,
     "name": "Sergey Karjakin",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sergey_Karjakin_in_2016.jpg/200px-Sergey_Karjakin_in_2016.jpg",
     "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
     "rating": 2747,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -189,6 +206,7 @@
   {
     "id": 18,
     "name": "Bobby Fischer",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bobby_Fischer_1960_in_Leipzig.jpg/200px-Bobby_Fischer_1960_in_Leipzig.jpg",
     "country_en": "USA", "country_fr": "États-Unis", "country_nl": "VS",
     "rating": 2785,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -200,6 +218,7 @@
   {
     "id": 19,
     "name": "Anatoly Karpov",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anatoly_Karpov_in_2018.jpg/200px-Anatoly_Karpov_in_2018.jpg",
     "country_en": "Russia", "country_fr": "Russie", "country_nl": "Rusland",
     "rating": 2780,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",
@@ -211,6 +230,7 @@
   {
     "id": 20,
     "name": "José Raúl Capablanca",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Capablanca_1931.jpg/200px-Capablanca_1931.jpg",
     "country_en": "Cuba", "country_fr": "Cuba", "country_nl": "Cuba",
     "rating": 2725,
     "title_en": "Grandmaster", "title_fr": "Grand Maître", "title_nl": "Grootmeester",

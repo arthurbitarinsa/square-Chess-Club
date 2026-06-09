@@ -11,6 +11,11 @@ function ChampionsPage({ t, lang }) {
       .then(data => setChampions(data))
   }, [])
 
+  const getProxiedPhoto = (url) => {
+    if (!url) return null
+    return url.replace('https://upload.wikimedia.org', '/wiki-img')
+  }
+
   return (
     <div className="page">
       <div className="hero">
@@ -24,7 +29,19 @@ function ChampionsPage({ t, lang }) {
         <div className="cards-grid">
           {champions.map(champion => (
             <div key={champion.id} className="card" onClick={() => navigate(`/tournaments/${champion.id}`)}>
-              <div className="card-avatar">{champion.name[0]}</div>
+              <div className="card-avatar">
+                <img
+                  src={getProxiedPhoto(champion.photo)}
+                  alt={champion.name}
+                  onError={e => {
+                    e.target.style.display = 'none'
+                    e.target.nextSibling.style.display = 'flex'
+                  }}
+                />
+                <span className="avatar-fallback" style={{ display: 'none' }}>
+                  {champion.name[0]}
+                </span>
+              </div>
               <div className="card-info">
                 <h3>{champion.name}</h3>
                 <p className="card-title">{champion[`title_${lang}`]}</p>
